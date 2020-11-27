@@ -6,7 +6,8 @@ const intro = (name) => {
 }
 
 module.exports = {
-    intro
+    intro,
+    greeting
 } 
 
 

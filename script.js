@@ -1,6 +1,6 @@
 const text =  require("./index");
 
-console.log(text.intro("Kawsar"));
+console.log(text.greeting);
 
 
 
